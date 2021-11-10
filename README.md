@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ivertom
-- 👀 I’m interested in CRDTs, SQLite and databases
-- 📫 How to reach me: -----------
+- 👀 I’m interested in databases
