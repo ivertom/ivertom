@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @ivertom
-- 👀 I’m interested in databases
